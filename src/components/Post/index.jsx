@@ -52,7 +52,7 @@ export const Post = ({
       {imageUrl && (
         <img
           className={clsx(styles.image, { [styles.imageFull]: isFullPost })}
-          src={'http://localhost:3030' + imageUrl}
+          src={'https://mernblogback.onrender.com/' + imageUrl}
           alt={title}
         />
       )}
