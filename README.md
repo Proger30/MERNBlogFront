@@ -1,8 +1,11 @@
 # MERN Blog
 ***
 ## Full project here: https://app-mern-blog.netlify.app/
+
 Back side: https://github.com/Proger30/MERNBlogBack
+
 Is responsible: false
+
 Stack: MERN
 
 ### Login/Registration page: ![Screenshot 2023-06-12 162133](https://github.com/Proger30/MERNBlogFront/assets/45534457/a7d42f68-18b3-411c-9e01-f22747a9cbc1)
